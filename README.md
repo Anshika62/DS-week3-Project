@@ -1,1 +1,2 @@
-# DS-week3-Project
+Sales Data Analysis – Description
+In this project, I analyzed a small sales dataset using Python and pandas. I cleaned the data, handled missing values, and removed duplicates. After that, I calculated important results like total revenue, best-selling product, and region-wise sales. Finally, I generated a clean and easy-to-understand report showing the overall sales performance. This project helped me understand how to work with real data and extract useful insights using pandas.# DS-week3-Project
